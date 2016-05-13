@@ -20,4 +20,4 @@ The company is always looking for more way's to expand its business, to both bri
 The purpose of this project is to improve the overall engineering process, and also incorporate more disciplines.
 We develop a web application that will serve the needs of Alewijnse company in combining information to create a blueprint for a bridge.
 When this project is done, the software should allow the user to enter specific variables, preferences, constraints and get detailed
-planning of the object that is to be built. The end product will be called “The Dutch Bridge”.
+planning of the object that is to be built. The end product will be called "The Dutch Bridge".
