@@ -20,6 +20,7 @@ Slides
 |  11  | [Software architecture](https://drive.google.com/open?id=0B6Zf71MLHzExRU1ic0FEbnRXT2M) | | |
 |  12  | [Software testing](https://drive.google.com/open?id=0B6Zf71MLHzExZU00SG9mVE03Mm8) | | |
 |  17  | [Software building](https://drive.google.com/open?id=0B6Zf71MLHzExcUUwWEFoM0p6Qlk) | | |
+|  19  | | | [Evaluation and closing](https://docs.google.com/document/d/1nMY_sUxMSvleYw35Qy7woZ7i1YUtyV1s6GLrltR_VvU/edit?usp=sharing) |
 
 ***
 
