@@ -12,7 +12,7 @@ website: http://scan.optimalplanet.nl/
 
 #### About Optimal Planet
 
-![Optimal Planet logo]({{ site.url }}/assets/img/project/optimalplanet_logo.png)
+![Optimal Planet logo]({{ site.github.url }}/assets/img/project/optimalplanet_logo.png)
 
 In the past, Optimal Planet created a custom tool with GiPHouse based on Reinier de Nooij's vision and special methodology. 
 The tool was mainly used in workshops, aimed at measuring the sustainability and circularity of participants' products. 
