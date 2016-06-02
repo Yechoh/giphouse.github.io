@@ -22,6 +22,7 @@ Slides
 |  17  | [Software building](https://drive.google.com/open?id=0B6Zf71MLHzExcUUwWEFoM0p6Qlk) | | |
 |  19  | [Continuous Delivery](https://drive.google.com/open?id=0B6Zf71MLHzExdVJRczNENmZuOVk) [Infrastucture as code](https://drive.google.com/open?id=0B6Zf71MLHzExVEFNcWZWZzBCNEU) | | [Evaluation and closing](https://docs.google.com/document/d/1nMY_sUxMSvleYw35Qy7woZ7i1YUtyV1s6GLrltR_VvU/edit?usp=sharing) |
 |  21  | [Debugging](https://drive.google.com/open?id=0B6Zf71MLHzExZno0a0lLekt2c0U) | | |
+
 ***
 
 Schedule
