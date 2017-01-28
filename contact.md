@@ -13,6 +13,6 @@ permalink: /contact/
 {{ line }}
 {% endfor %}
 
-Email: {{ site.email }}
+Email: {{ site.email }}
 
-Tel: {{ site.tel }}
+Tel: {{ site.tel }}
