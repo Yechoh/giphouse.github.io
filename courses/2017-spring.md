@@ -9,7 +9,10 @@ permalink: /courses/2017-spring/
 Schedule
 --------
 
-The schedule will be posted shortly.
+The schedule can also be found on [Google Drive](https://docs.google.com/spreadsheets/d/1wDLMHabnrQvtQfnvxD8Z4_gZT0m5DN7ULqFlk4eHMmk/pubhtml?gid=776093914&single=true)
+
+<iframe style="width: 100%; height: 1000px" src="https://docs.google.com/spreadsheets/d/1wDLMHabnrQvtQfnvxD8Z4_gZT0m5DN7ULqFlk4eHMmk/pubhtml?gid=776093914&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 ***
 
