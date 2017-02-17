@@ -50,6 +50,10 @@
             {% endfor %}
           </ul>
         </li>
+        <li {% if page.title == "Scoreboard" %}class="active"{% endif %}>
+          <a href="{{"/scoreboard/" | prepend: site.baseurl }}">SCOREBOARD</a>
+        </li>
+        </li>
         <li {% if page.title == "Contact" %}class="active"{% endif %}>
           <a href="{{"/contact/" | prepend: site.baseurl }}">CONTACT</a>
         </li>
